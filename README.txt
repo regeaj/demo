@@ -1,6 +1,6 @@
-Demo Projekt
+Demo Projekt (Experimental)
 ============
 
 Dieses Projekt demonstriert den Build- und Release-Prozess.
 
-Beiträge sind willkommen.
+Experimental Branch, Beiträge auf eigenes Risiko!
